@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Silvia H B Fernandes"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-02-25 04:54:54 PM"/>
+        <attribute name="created" value="U2lsdmlhIEggQiBGZXJuYW5kZXM7U0lMVklBLUNSQUFNOzIwMjItMDItMjU7MDQ6NTE6NTcgUE07MzkwNg=="/>
+        <attribute name="edited" value="U2lsdmlhIEggQiBGZXJuYW5kZXM7U0lMVklBLUNSQUFNOzIwMjItMDItMjU7MDQ6NTQ6NTQgUE07MTs0MDE0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="numero, limite" type="Integer" array="False" size=""/>
+            <assign variable="numero" expression="1"/>
+            <assign variable="limite" expression="10"/>
+            <while expression="numero &lt;= limite">
+                <output expression="&quot;contagem atual: &quot; &amp; numero" newline="True"/>
+                <assign variable="numero" expression="numero + 1"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>
