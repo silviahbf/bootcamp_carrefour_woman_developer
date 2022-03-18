@@ -5,4 +5,4 @@ Repositório criado para o Desafio de Projeto.
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
 ## Bootcamp Carrefour Woman Developer:
-Esse diretório também contém os exercícios feitos durante as aulas do bootcamp.
+Esse repositório contém também os exercícios feitos durante as aulas do bootcamp.
