@@ -1,0 +1,16 @@
+D:\!Dio\Aula2_Demos\bin\Debug\net5.0\Aula2_Demos.exe
+D:\!Dio\Aula2_Demos\bin\Debug\net5.0\Aula2_Demos.deps.json
+D:\!Dio\Aula2_Demos\bin\Debug\net5.0\Aula2_Demos.runtimeconfig.json
+D:\!Dio\Aula2_Demos\bin\Debug\net5.0\Aula2_Demos.runtimeconfig.dev.json
+D:\!Dio\Aula2_Demos\bin\Debug\net5.0\Aula2_Demos.dll
+D:\!Dio\Aula2_Demos\bin\Debug\net5.0\ref\Aula2_Demos.dll
+D:\!Dio\Aula2_Demos\bin\Debug\net5.0\Aula2_Demos.pdb
+D:\!Dio\Aula2_Demos\obj\Debug\net5.0\Aula2_Demos.csproj.AssemblyReference.cache
+D:\!Dio\Aula2_Demos\obj\Debug\net5.0\Aula2_Demos.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Dio\Aula2_Demos\obj\Debug\net5.0\Aula2_Demos.AssemblyInfoInputs.cache
+D:\!Dio\Aula2_Demos\obj\Debug\net5.0\Aula2_Demos.AssemblyInfo.cs
+D:\!Dio\Aula2_Demos\obj\Debug\net5.0\Aula2_Demos.csproj.CoreCompileInputs.cache
+D:\!Dio\Aula2_Demos\obj\Debug\net5.0\Aula2_Demos.dll
+D:\!Dio\Aula2_Demos\obj\Debug\net5.0\ref\Aula2_Demos.dll
+D:\!Dio\Aula2_Demos\obj\Debug\net5.0\Aula2_Demos.pdb
+D:\!Dio\Aula2_Demos\obj\Debug\net5.0\Aula2_Demos.genruntimeconfig.cache

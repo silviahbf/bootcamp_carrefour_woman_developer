@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Silvia H B Fernandes"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-02-25 04:22:46 PM"/>
+        <attribute name="created" value="U2lsdmlhIEggQiBGZXJuYW5kZXM7U0lMVklBLUNSQUFNOzIwMjItMDItMjU7MDQ6MTE6NDUgUE07Mzg5OQ=="/>
+        <attribute name="edited" value="U2lsdmlhIEggQiBGZXJuYW5kZXM7U0lMVklBLUNSQUFNOzIwMjItMDItMjU7MDQ6MjI6NDYgUE07MTs0MDEw"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="vendajan, vendafev, vendamar, vendaabr, media" type="Integer" array="False" size=""/>
+            <input variable="vendajan"/>
+            <input variable="vendafev"/>
+            <input variable="vendamar"/>
+            <input variable="vendaabr"/>
+            <assign variable="media" expression="(vendajan+vendafev+vendamar+vendaabr)/4"/>
+            <output expression="media" newline="True"/>
+            <if expression="media &gt; 5000">
+                <then>
+                    <output expression="&quot;Voc&#234; ter&#225; um abono de 10%&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Voc&#234; ter&#225; um abono de 5%&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
