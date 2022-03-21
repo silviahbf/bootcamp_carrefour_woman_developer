@@ -1,0 +1,16 @@
+D:\!Dio\Aula03a\bin\Debug\net5.0\Aula03a.exe
+D:\!Dio\Aula03a\bin\Debug\net5.0\Aula03a.deps.json
+D:\!Dio\Aula03a\bin\Debug\net5.0\Aula03a.runtimeconfig.json
+D:\!Dio\Aula03a\bin\Debug\net5.0\Aula03a.runtimeconfig.dev.json
+D:\!Dio\Aula03a\bin\Debug\net5.0\Aula03a.dll
+D:\!Dio\Aula03a\bin\Debug\net5.0\ref\Aula03a.dll
+D:\!Dio\Aula03a\bin\Debug\net5.0\Aula03a.pdb
+D:\!Dio\Aula03a\obj\Debug\net5.0\Aula03a.csproj.AssemblyReference.cache
+D:\!Dio\Aula03a\obj\Debug\net5.0\Aula03a.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Dio\Aula03a\obj\Debug\net5.0\Aula03a.AssemblyInfoInputs.cache
+D:\!Dio\Aula03a\obj\Debug\net5.0\Aula03a.AssemblyInfo.cs
+D:\!Dio\Aula03a\obj\Debug\net5.0\Aula03a.csproj.CoreCompileInputs.cache
+D:\!Dio\Aula03a\obj\Debug\net5.0\Aula03a.dll
+D:\!Dio\Aula03a\obj\Debug\net5.0\ref\Aula03a.dll
+D:\!Dio\Aula03a\obj\Debug\net5.0\Aula03a.pdb
+D:\!Dio\Aula03a\obj\Debug\net5.0\Aula03a.genruntimeconfig.cache

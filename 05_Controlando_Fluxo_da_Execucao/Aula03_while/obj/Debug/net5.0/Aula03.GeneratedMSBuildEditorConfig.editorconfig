@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = Revisao
-build_property.ProjectDir = d:\!Dio\dio-desafio-github-primeiro-repositorio\03-Primeiros_passos_com_dotNet\Revisao\
+build_property.RootNamespace = Aula03
+build_property.ProjectDir = D:\!Dio\Aula03\
