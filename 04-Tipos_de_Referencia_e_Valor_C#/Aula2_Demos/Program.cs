@@ -26,6 +26,31 @@ namespace Aula2_Demos
 
             WriteLine($@"A lista de nomes alteradas é: {string.Join(", \n", nomes)} ");
         }
+
+        //static void Demo3()
+        //{
+            //var nomes = new string[]{"José", "Maria", "Ricardo", "Alice", "Pedro"};
+            //WriteLine($@"A lista de nomes é: {string.Join(", \n", nomes)} ");
+
+            //WriteLine("Digite o nome a ser substituído: ");
+            //var nome = ReadLine();
+            //WriteLine("Digite o nome novo: ");
+            //var nomeNovo = ReadLine();
+
+            //var indice = LocalizarNome(nomes, nome);
+
+            //if (indice >= 0)
+            //{
+                //nomes[indice] = nomeNovo;
+
+                //WriteLine($@"A lista de nomes alteradas é: {string.Join(", \n", nomes)} ");
+            //}
+            //else
+            //{
+                //WriteLine("Nome não encontrado.");
+            //}
+        //}
+
         static void Adicionar20(ref int a)
         {
             a += 20;
@@ -42,15 +67,26 @@ namespace Aula2_Demos
             }
         }
         
-        static int LocalizarNome(string[] nomes, string nome)
+        //static int LocalizarNome(string[] nomes, string nome)
+        //{
+           // for (int i =0; i < nomes.Length; i++)
+           //{
+                //if (nomes[i] == nome)
+                    //return i;
+            //}
+            //return -1;
+        //}
+
+        static ref string LocalizarNome(string[] nomes, string nome)
         {
             for (int i =0; i < nomes.Length; i++)
             {
                 if (nomes[i] == nome)
-                    return i;
+                    return ref nomes[i];
             }
-            return -1;
+            throw new Exception("Nome não encontrado.");
         }
+
         static void Main()
         {
             var nomes = new string[]{"José", "Maria", "Ricardo", "Alice", "Pedro"};
@@ -61,22 +97,19 @@ namespace Aula2_Demos
             WriteLine("Digite o nome novo: ");
             var nomeNovo = ReadLine();
 
-            var indice = LocalizarNome(nomes, nome);
+            ref var nomeAchado = ref LocalizarNome(nomes, nome);
 
-            if (indice >= 0)
+            if (!string.IsNullOrWhiteSpace(nomeAchado))
             {
-                nomes[indice] = nomeNovo;
+                nomeAchado = nomeNovo;
 
-                WriteLine($@"A lista de nomes alteradas é: {string.Join(", \n", nomes)} ");
+                WriteLine($@"A lista de nomes alterada é: 
+                    {string.Join(", \n", nomes)} ");
             }
             else
             {
                 WriteLine("Nome não encontrado.");
-            }
-
-                      
-            
-
+            }          
         }
     }
 }

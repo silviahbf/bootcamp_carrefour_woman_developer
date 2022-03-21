@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\!Dio\\Aula2_Demos\\Aula2_Demos.csproj": {}
+    "D:\\!Dio\\dio-desafio-github-primeiro-repositorio\\04-Tipos_de_Referencia_e_Valor_C#\\Aula2_Demos\\Aula2_Demos.csproj": {}
   },
   "projects": {
-    "D:\\!Dio\\Aula2_Demos\\Aula2_Demos.csproj": {
+    "D:\\!Dio\\dio-desafio-github-primeiro-repositorio\\04-Tipos_de_Referencia_e_Valor_C#\\Aula2_Demos\\Aula2_Demos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\!Dio\\Aula2_Demos\\Aula2_Demos.csproj",
+        "projectUniqueName": "D:\\!Dio\\dio-desafio-github-primeiro-repositorio\\04-Tipos_de_Referencia_e_Valor_C#\\Aula2_Demos\\Aula2_Demos.csproj",
         "projectName": "Aula2_Demos",
-        "projectPath": "D:\\!Dio\\Aula2_Demos\\Aula2_Demos.csproj",
+        "projectPath": "D:\\!Dio\\dio-desafio-github-primeiro-repositorio\\04-Tipos_de_Referencia_e_Valor_C#\\Aula2_Demos\\Aula2_Demos.csproj",
         "packagesPath": "C:\\Users\\Silvia H B Fernandes\\.nuget\\packages\\",
-        "outputPath": "D:\\!Dio\\Aula2_Demos\\obj\\",
+        "outputPath": "D:\\!Dio\\dio-desafio-github-primeiro-repositorio\\04-Tipos_de_Referencia_e_Valor_C#\\Aula2_Demos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Silvia H B Fernandes\\AppData\\Roaming\\NuGet\\NuGet.Config"
