@@ -5,7 +5,7 @@ class DIO
  
     static void Main(string[] args)
     {
-		string[] input;
+	string[] input;
 
         input = Console.ReadLine().Split(' ');
         int cod1 = int.Parse(input[0]);
@@ -13,9 +13,9 @@ class DIO
         double valor1 = double.Parse(input[2]);
 
      //Escreva sua lógica nos espaços em branco
-   	    input = Console.ReadLine().Split(' ');
+   	input = Console.ReadLine().Split(' ');
         int cod2 = int.Parse(input[0]);
-	    int n2  = int.Parse(input[1]);
+	int n2  = int.Parse(input[1]);
         double valor2 = double.Parse(input[2]);
 
         double total = (n1 * valor1) + (n2 * valor2);
