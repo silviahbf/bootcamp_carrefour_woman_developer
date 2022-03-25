@@ -1,0 +1,15 @@
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio02_Media2\obj\Debug\net6.0\Desafio02_Media2.csproj.AssemblyReference.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio02_Media2\obj\Debug\net6.0\Desafio02_Media2.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio02_Media2\obj\Debug\net6.0\Desafio02_Media2.AssemblyInfoInputs.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio02_Media2\obj\Debug\net6.0\Desafio02_Media2.AssemblyInfo.cs
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio02_Media2\obj\Debug\net6.0\Desafio02_Media2.csproj.CoreCompileInputs.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio02_Media2\bin\Debug\net6.0\Desafio02_Media2.exe
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio02_Media2\bin\Debug\net6.0\Desafio02_Media2.deps.json
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio02_Media2\bin\Debug\net6.0\Desafio02_Media2.runtimeconfig.json
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio02_Media2\bin\Debug\net6.0\Desafio02_Media2.dll
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio02_Media2\bin\Debug\net6.0\Desafio02_Media2.pdb
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio02_Media2\obj\Debug\net6.0\Desafio02_Media2.dll
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio02_Media2\obj\Debug\net6.0\refint\Desafio02_Media2.dll
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio02_Media2\obj\Debug\net6.0\Desafio02_Media2.pdb
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio02_Media2\obj\Debug\net6.0\Desafio02_Media2.genruntimeconfig.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio02_Media2\obj\Debug\net6.0\ref\Desafio02_Media2.dll
