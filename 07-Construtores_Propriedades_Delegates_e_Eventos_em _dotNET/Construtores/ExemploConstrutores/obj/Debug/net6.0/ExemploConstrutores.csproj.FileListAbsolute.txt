@@ -1,0 +1,30 @@
+D:\!Dio\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.exe
+D:\!Dio\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.deps.json
+D:\!Dio\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.runtimeconfig.json
+D:\!Dio\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.dll
+D:\!Dio\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.pdb
+D:\!Dio\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.csproj.AssemblyReference.cache
+D:\!Dio\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Dio\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.AssemblyInfoInputs.cache
+D:\!Dio\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.AssemblyInfo.cs
+D:\!Dio\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.csproj.CoreCompileInputs.cache
+D:\!Dio\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.dll
+D:\!Dio\Construtores\ExemploConstrutores\obj\Debug\net6.0\refint\ExemploConstrutores.dll
+D:\!Dio\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.pdb
+D:\!Dio\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.genruntimeconfig.cache
+D:\!Dio\Construtores\ExemploConstrutores\obj\Debug\net6.0\ref\ExemploConstrutores.dll
+D:\!Dio\dio-desafio-github-primeiro-repositorio\07-Construtores_Propriedades_Delegates_e_Eventos_em _dotNET\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.exe
+D:\!Dio\dio-desafio-github-primeiro-repositorio\07-Construtores_Propriedades_Delegates_e_Eventos_em _dotNET\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.deps.json
+D:\!Dio\dio-desafio-github-primeiro-repositorio\07-Construtores_Propriedades_Delegates_e_Eventos_em _dotNET\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.runtimeconfig.json
+D:\!Dio\dio-desafio-github-primeiro-repositorio\07-Construtores_Propriedades_Delegates_e_Eventos_em _dotNET\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.dll
+D:\!Dio\dio-desafio-github-primeiro-repositorio\07-Construtores_Propriedades_Delegates_e_Eventos_em _dotNET\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.pdb
+D:\!Dio\dio-desafio-github-primeiro-repositorio\07-Construtores_Propriedades_Delegates_e_Eventos_em _dotNET\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.csproj.AssemblyReference.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\07-Construtores_Propriedades_Delegates_e_Eventos_em _dotNET\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Dio\dio-desafio-github-primeiro-repositorio\07-Construtores_Propriedades_Delegates_e_Eventos_em _dotNET\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.AssemblyInfoInputs.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\07-Construtores_Propriedades_Delegates_e_Eventos_em _dotNET\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.AssemblyInfo.cs
+D:\!Dio\dio-desafio-github-primeiro-repositorio\07-Construtores_Propriedades_Delegates_e_Eventos_em _dotNET\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.csproj.CoreCompileInputs.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\07-Construtores_Propriedades_Delegates_e_Eventos_em _dotNET\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.dll
+D:\!Dio\dio-desafio-github-primeiro-repositorio\07-Construtores_Propriedades_Delegates_e_Eventos_em _dotNET\Construtores\ExemploConstrutores\obj\Debug\net6.0\refint\ExemploConstrutores.dll
+D:\!Dio\dio-desafio-github-primeiro-repositorio\07-Construtores_Propriedades_Delegates_e_Eventos_em _dotNET\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.pdb
+D:\!Dio\dio-desafio-github-primeiro-repositorio\07-Construtores_Propriedades_Delegates_e_Eventos_em _dotNET\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.genruntimeconfig.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\07-Construtores_Propriedades_Delegates_e_Eventos_em _dotNET\Construtores\ExemploConstrutores\obj\Debug\net6.0\ref\ExemploConstrutores.dll
