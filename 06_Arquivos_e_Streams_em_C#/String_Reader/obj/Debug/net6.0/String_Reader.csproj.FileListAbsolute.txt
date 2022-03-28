@@ -1,0 +1,15 @@
+D:\!Dio\String_Reader\bin\Debug\net6.0\String_Reader.exe
+D:\!Dio\String_Reader\bin\Debug\net6.0\String_Reader.deps.json
+D:\!Dio\String_Reader\bin\Debug\net6.0\String_Reader.runtimeconfig.json
+D:\!Dio\String_Reader\bin\Debug\net6.0\String_Reader.dll
+D:\!Dio\String_Reader\bin\Debug\net6.0\String_Reader.pdb
+D:\!Dio\String_Reader\obj\Debug\net6.0\String_Reader.csproj.AssemblyReference.cache
+D:\!Dio\String_Reader\obj\Debug\net6.0\String_Reader.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Dio\String_Reader\obj\Debug\net6.0\String_Reader.AssemblyInfoInputs.cache
+D:\!Dio\String_Reader\obj\Debug\net6.0\String_Reader.AssemblyInfo.cs
+D:\!Dio\String_Reader\obj\Debug\net6.0\String_Reader.csproj.CoreCompileInputs.cache
+D:\!Dio\String_Reader\obj\Debug\net6.0\String_Reader.dll
+D:\!Dio\String_Reader\obj\Debug\net6.0\refint\String_Reader.dll
+D:\!Dio\String_Reader\obj\Debug\net6.0\String_Reader.pdb
+D:\!Dio\String_Reader\obj\Debug\net6.0\String_Reader.genruntimeconfig.cache
+D:\!Dio\String_Reader\obj\Debug\net6.0\ref\String_Reader.dll
