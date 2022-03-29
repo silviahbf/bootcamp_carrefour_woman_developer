@@ -1,5 +1,0 @@
-D:\!Dio\Aula02.b\obj\Debug\net5.0\Aula02-b.csproj.AssemblyReference.cache
-D:\!Dio\Aula02.b\obj\Debug\net5.0\Aula02-b.GeneratedMSBuildEditorConfig.editorconfig
-D:\!Dio\Aula02.b\obj\Debug\net5.0\Aula02-b.AssemblyInfoInputs.cache
-D:\!Dio\Aula02.b\obj\Debug\net5.0\Aula02-b.AssemblyInfo.cs
-D:\!Dio\Aula02.b\obj\Debug\net5.0\Aula02-b.csproj.CoreCompileInputs.cache
