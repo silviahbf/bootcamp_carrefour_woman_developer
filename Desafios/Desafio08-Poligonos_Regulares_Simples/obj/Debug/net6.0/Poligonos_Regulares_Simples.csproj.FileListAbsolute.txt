@@ -1,0 +1,15 @@
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio08-Poligonos_Regulares_Simples\bin\Debug\net6.0\Poligonos_Regulares_Simples.exe
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio08-Poligonos_Regulares_Simples\bin\Debug\net6.0\Poligonos_Regulares_Simples.deps.json
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio08-Poligonos_Regulares_Simples\bin\Debug\net6.0\Poligonos_Regulares_Simples.runtimeconfig.json
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio08-Poligonos_Regulares_Simples\bin\Debug\net6.0\Poligonos_Regulares_Simples.dll
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio08-Poligonos_Regulares_Simples\bin\Debug\net6.0\Poligonos_Regulares_Simples.pdb
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio08-Poligonos_Regulares_Simples\obj\Debug\net6.0\Poligonos_Regulares_Simples.csproj.AssemblyReference.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio08-Poligonos_Regulares_Simples\obj\Debug\net6.0\Poligonos_Regulares_Simples.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio08-Poligonos_Regulares_Simples\obj\Debug\net6.0\Poligonos_Regulares_Simples.AssemblyInfoInputs.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio08-Poligonos_Regulares_Simples\obj\Debug\net6.0\Poligonos_Regulares_Simples.AssemblyInfo.cs
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio08-Poligonos_Regulares_Simples\obj\Debug\net6.0\Poligonos_Regulares_Simples.csproj.CoreCompileInputs.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio08-Poligonos_Regulares_Simples\obj\Debug\net6.0\Poligonos_Regulares_Simples.dll
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio08-Poligonos_Regulares_Simples\obj\Debug\net6.0\refint\Poligonos_Regulares_Simples.dll
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio08-Poligonos_Regulares_Simples\obj\Debug\net6.0\Poligonos_Regulares_Simples.pdb
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio08-Poligonos_Regulares_Simples\obj\Debug\net6.0\Poligonos_Regulares_Simples.genruntimeconfig.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio08-Poligonos_Regulares_Simples\obj\Debug\net6.0\ref\Poligonos_Regulares_Simples.dll

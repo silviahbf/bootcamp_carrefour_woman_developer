@@ -1,0 +1,16 @@
+D:\!Dio\Aula04\bin\Debug\net5.0\Aula04.exe
+D:\!Dio\Aula04\bin\Debug\net5.0\Aula04.deps.json
+D:\!Dio\Aula04\bin\Debug\net5.0\Aula04.runtimeconfig.json
+D:\!Dio\Aula04\bin\Debug\net5.0\Aula04.runtimeconfig.dev.json
+D:\!Dio\Aula04\bin\Debug\net5.0\Aula04.dll
+D:\!Dio\Aula04\bin\Debug\net5.0\ref\Aula04.dll
+D:\!Dio\Aula04\bin\Debug\net5.0\Aula04.pdb
+D:\!Dio\Aula04\obj\Debug\net5.0\Aula04.csproj.AssemblyReference.cache
+D:\!Dio\Aula04\obj\Debug\net5.0\Aula04.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Dio\Aula04\obj\Debug\net5.0\Aula04.AssemblyInfoInputs.cache
+D:\!Dio\Aula04\obj\Debug\net5.0\Aula04.AssemblyInfo.cs
+D:\!Dio\Aula04\obj\Debug\net5.0\Aula04.csproj.CoreCompileInputs.cache
+D:\!Dio\Aula04\obj\Debug\net5.0\Aula04.dll
+D:\!Dio\Aula04\obj\Debug\net5.0\ref\Aula04.dll
+D:\!Dio\Aula04\obj\Debug\net5.0\Aula04.pdb
+D:\!Dio\Aula04\obj\Debug\net5.0\Aula04.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio06_Pneu\bin\Debug\net6.0\Pneu.exe
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio06_Pneu\bin\Debug\net6.0\Pneu.deps.json
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio06_Pneu\bin\Debug\net6.0\Pneu.runtimeconfig.json
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio06_Pneu\bin\Debug\net6.0\Pneu.dll
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio06_Pneu\bin\Debug\net6.0\Pneu.pdb
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio06_Pneu\obj\Debug\net6.0\Pneu.csproj.AssemblyReference.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio06_Pneu\obj\Debug\net6.0\Pneu.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio06_Pneu\obj\Debug\net6.0\Pneu.AssemblyInfoInputs.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio06_Pneu\obj\Debug\net6.0\Pneu.AssemblyInfo.cs
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio06_Pneu\obj\Debug\net6.0\Pneu.csproj.CoreCompileInputs.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio06_Pneu\obj\Debug\net6.0\Pneu.dll
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio06_Pneu\obj\Debug\net6.0\refint\Pneu.dll
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio06_Pneu\obj\Debug\net6.0\Pneu.pdb
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio06_Pneu\obj\Debug\net6.0\Pneu.genruntimeconfig.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio06_Pneu\obj\Debug\net6.0\ref\Pneu.dll

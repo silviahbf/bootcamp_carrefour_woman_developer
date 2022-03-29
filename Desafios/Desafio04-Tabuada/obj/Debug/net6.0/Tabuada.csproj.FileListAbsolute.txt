@@ -1,0 +1,15 @@
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio04-Tabuada\obj\Debug\net6.0\Tabuada.csproj.AssemblyReference.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio04-Tabuada\obj\Debug\net6.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio04-Tabuada\obj\Debug\net6.0\Tabuada.AssemblyInfoInputs.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio04-Tabuada\obj\Debug\net6.0\Tabuada.AssemblyInfo.cs
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio04-Tabuada\obj\Debug\net6.0\Tabuada.csproj.CoreCompileInputs.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio04-Tabuada\bin\Debug\net6.0\Tabuada.exe
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio04-Tabuada\bin\Debug\net6.0\Tabuada.deps.json
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio04-Tabuada\bin\Debug\net6.0\Tabuada.runtimeconfig.json
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio04-Tabuada\bin\Debug\net6.0\Tabuada.dll
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio04-Tabuada\bin\Debug\net6.0\Tabuada.pdb
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio04-Tabuada\obj\Debug\net6.0\Tabuada.dll
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio04-Tabuada\obj\Debug\net6.0\refint\Tabuada.dll
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio04-Tabuada\obj\Debug\net6.0\Tabuada.pdb
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio04-Tabuada\obj\Debug\net6.0\Tabuada.genruntimeconfig.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio04-Tabuada\obj\Debug\net6.0\ref\Tabuada.dll

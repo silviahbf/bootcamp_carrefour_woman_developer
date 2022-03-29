@@ -1,0 +1,15 @@
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio05-HO_HO_HO\bin\Debug\net6.0\HO_HO_HO.exe
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio05-HO_HO_HO\bin\Debug\net6.0\HO_HO_HO.deps.json
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio05-HO_HO_HO\bin\Debug\net6.0\HO_HO_HO.runtimeconfig.json
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio05-HO_HO_HO\bin\Debug\net6.0\HO_HO_HO.dll
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio05-HO_HO_HO\bin\Debug\net6.0\HO_HO_HO.pdb
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio05-HO_HO_HO\obj\Debug\net6.0\HO_HO_HO.csproj.AssemblyReference.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio05-HO_HO_HO\obj\Debug\net6.0\HO_HO_HO.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio05-HO_HO_HO\obj\Debug\net6.0\HO_HO_HO.AssemblyInfoInputs.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio05-HO_HO_HO\obj\Debug\net6.0\HO_HO_HO.AssemblyInfo.cs
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio05-HO_HO_HO\obj\Debug\net6.0\HO_HO_HO.csproj.CoreCompileInputs.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio05-HO_HO_HO\obj\Debug\net6.0\HO_HO_HO.dll
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio05-HO_HO_HO\obj\Debug\net6.0\refint\HO_HO_HO.dll
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio05-HO_HO_HO\obj\Debug\net6.0\HO_HO_HO.pdb
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio05-HO_HO_HO\obj\Debug\net6.0\HO_HO_HO.genruntimeconfig.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio05-HO_HO_HO\obj\Debug\net6.0\ref\HO_HO_HO.dll

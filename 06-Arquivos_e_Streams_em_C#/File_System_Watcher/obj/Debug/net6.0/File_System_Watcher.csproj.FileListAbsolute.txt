@@ -1,0 +1,15 @@
+D:\!Dio\File_System_Watcher\bin\Debug\net6.0\File_System_Watcher.exe
+D:\!Dio\File_System_Watcher\bin\Debug\net6.0\File_System_Watcher.deps.json
+D:\!Dio\File_System_Watcher\bin\Debug\net6.0\File_System_Watcher.runtimeconfig.json
+D:\!Dio\File_System_Watcher\bin\Debug\net6.0\File_System_Watcher.dll
+D:\!Dio\File_System_Watcher\bin\Debug\net6.0\File_System_Watcher.pdb
+D:\!Dio\File_System_Watcher\obj\Debug\net6.0\File_System_Watcher.csproj.AssemblyReference.cache
+D:\!Dio\File_System_Watcher\obj\Debug\net6.0\File_System_Watcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Dio\File_System_Watcher\obj\Debug\net6.0\File_System_Watcher.AssemblyInfoInputs.cache
+D:\!Dio\File_System_Watcher\obj\Debug\net6.0\File_System_Watcher.AssemblyInfo.cs
+D:\!Dio\File_System_Watcher\obj\Debug\net6.0\File_System_Watcher.csproj.CoreCompileInputs.cache
+D:\!Dio\File_System_Watcher\obj\Debug\net6.0\File_System_Watcher.dll
+D:\!Dio\File_System_Watcher\obj\Debug\net6.0\refint\File_System_Watcher.dll
+D:\!Dio\File_System_Watcher\obj\Debug\net6.0\File_System_Watcher.pdb
+D:\!Dio\File_System_Watcher\obj\Debug\net6.0\File_System_Watcher.genruntimeconfig.cache
+D:\!Dio\File_System_Watcher\obj\Debug\net6.0\ref\File_System_Watcher.dll

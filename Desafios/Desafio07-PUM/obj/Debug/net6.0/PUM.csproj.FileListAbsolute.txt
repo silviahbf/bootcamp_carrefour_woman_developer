@@ -1,0 +1,15 @@
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio07_PUM\bin\Debug\net6.0\PUM.exe
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio07_PUM\bin\Debug\net6.0\PUM.deps.json
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio07_PUM\bin\Debug\net6.0\PUM.runtimeconfig.json
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio07_PUM\bin\Debug\net6.0\PUM.dll
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio07_PUM\bin\Debug\net6.0\PUM.pdb
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio07_PUM\obj\Debug\net6.0\PUM.csproj.AssemblyReference.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio07_PUM\obj\Debug\net6.0\PUM.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio07_PUM\obj\Debug\net6.0\PUM.AssemblyInfoInputs.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio07_PUM\obj\Debug\net6.0\PUM.AssemblyInfo.cs
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio07_PUM\obj\Debug\net6.0\PUM.csproj.CoreCompileInputs.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio07_PUM\obj\Debug\net6.0\PUM.dll
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio07_PUM\obj\Debug\net6.0\refint\PUM.dll
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio07_PUM\obj\Debug\net6.0\PUM.pdb
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio07_PUM\obj\Debug\net6.0\PUM.genruntimeconfig.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio07_PUM\obj\Debug\net6.0\ref\PUM.dll

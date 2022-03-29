@@ -1,0 +1,15 @@
+D:\!Dio\Directory_And_DirectoryInfo\bin\Debug\net6.0\Directory_And_DirectoryInfo.exe
+D:\!Dio\Directory_And_DirectoryInfo\bin\Debug\net6.0\Directory_And_DirectoryInfo.deps.json
+D:\!Dio\Directory_And_DirectoryInfo\bin\Debug\net6.0\Directory_And_DirectoryInfo.runtimeconfig.json
+D:\!Dio\Directory_And_DirectoryInfo\bin\Debug\net6.0\Directory_And_DirectoryInfo.dll
+D:\!Dio\Directory_And_DirectoryInfo\bin\Debug\net6.0\Directory_And_DirectoryInfo.pdb
+D:\!Dio\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.csproj.AssemblyReference.cache
+D:\!Dio\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Dio\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.AssemblyInfoInputs.cache
+D:\!Dio\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.AssemblyInfo.cs
+D:\!Dio\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.csproj.CoreCompileInputs.cache
+D:\!Dio\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.dll
+D:\!Dio\Directory_And_DirectoryInfo\obj\Debug\net6.0\refint\Directory_And_DirectoryInfo.dll
+D:\!Dio\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.pdb
+D:\!Dio\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.genruntimeconfig.cache
+D:\!Dio\Directory_And_DirectoryInfo\obj\Debug\net6.0\ref\Directory_And_DirectoryInfo.dll

@@ -1,0 +1,15 @@
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio09-Quadrado_e_ao_Cubo\bin\Debug\net6.0\Quadrado_e_ao_Cubo.exe
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio09-Quadrado_e_ao_Cubo\bin\Debug\net6.0\Quadrado_e_ao_Cubo.deps.json
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio09-Quadrado_e_ao_Cubo\bin\Debug\net6.0\Quadrado_e_ao_Cubo.runtimeconfig.json
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio09-Quadrado_e_ao_Cubo\bin\Debug\net6.0\Quadrado_e_ao_Cubo.dll
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio09-Quadrado_e_ao_Cubo\bin\Debug\net6.0\Quadrado_e_ao_Cubo.pdb
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio09-Quadrado_e_ao_Cubo\obj\Debug\net6.0\Quadrado_e_ao_Cubo.csproj.AssemblyReference.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio09-Quadrado_e_ao_Cubo\obj\Debug\net6.0\Quadrado_e_ao_Cubo.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio09-Quadrado_e_ao_Cubo\obj\Debug\net6.0\Quadrado_e_ao_Cubo.AssemblyInfoInputs.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio09-Quadrado_e_ao_Cubo\obj\Debug\net6.0\Quadrado_e_ao_Cubo.AssemblyInfo.cs
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio09-Quadrado_e_ao_Cubo\obj\Debug\net6.0\Quadrado_e_ao_Cubo.csproj.CoreCompileInputs.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio09-Quadrado_e_ao_Cubo\obj\Debug\net6.0\Quadrado_e_ao_Cubo.dll
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio09-Quadrado_e_ao_Cubo\obj\Debug\net6.0\refint\Quadrado_e_ao_Cubo.dll
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio09-Quadrado_e_ao_Cubo\obj\Debug\net6.0\Quadrado_e_ao_Cubo.pdb
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio09-Quadrado_e_ao_Cubo\obj\Debug\net6.0\Quadrado_e_ao_Cubo.genruntimeconfig.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\Desafios\Desafio09-Quadrado_e_ao_Cubo\obj\Debug\net6.0\ref\Quadrado_e_ao_Cubo.dll
