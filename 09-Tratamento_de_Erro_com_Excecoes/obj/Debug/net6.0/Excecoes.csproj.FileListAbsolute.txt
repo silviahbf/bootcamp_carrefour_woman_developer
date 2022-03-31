@@ -1,0 +1,15 @@
+D:\!Dio\dio-desafio-github-primeiro-repositorio\09-Tratamento_de_Erro_com_Excecoes\bin\Debug\net6.0\Excecoes.exe
+D:\!Dio\dio-desafio-github-primeiro-repositorio\09-Tratamento_de_Erro_com_Excecoes\bin\Debug\net6.0\Excecoes.deps.json
+D:\!Dio\dio-desafio-github-primeiro-repositorio\09-Tratamento_de_Erro_com_Excecoes\bin\Debug\net6.0\Excecoes.runtimeconfig.json
+D:\!Dio\dio-desafio-github-primeiro-repositorio\09-Tratamento_de_Erro_com_Excecoes\bin\Debug\net6.0\Excecoes.dll
+D:\!Dio\dio-desafio-github-primeiro-repositorio\09-Tratamento_de_Erro_com_Excecoes\bin\Debug\net6.0\Excecoes.pdb
+D:\!Dio\dio-desafio-github-primeiro-repositorio\09-Tratamento_de_Erro_com_Excecoes\obj\Debug\net6.0\Excecoes.csproj.AssemblyReference.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\09-Tratamento_de_Erro_com_Excecoes\obj\Debug\net6.0\Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Dio\dio-desafio-github-primeiro-repositorio\09-Tratamento_de_Erro_com_Excecoes\obj\Debug\net6.0\Excecoes.AssemblyInfoInputs.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\09-Tratamento_de_Erro_com_Excecoes\obj\Debug\net6.0\Excecoes.AssemblyInfo.cs
+D:\!Dio\dio-desafio-github-primeiro-repositorio\09-Tratamento_de_Erro_com_Excecoes\obj\Debug\net6.0\Excecoes.csproj.CoreCompileInputs.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\09-Tratamento_de_Erro_com_Excecoes\obj\Debug\net6.0\Excecoes.dll
+D:\!Dio\dio-desafio-github-primeiro-repositorio\09-Tratamento_de_Erro_com_Excecoes\obj\Debug\net6.0\refint\Excecoes.dll
+D:\!Dio\dio-desafio-github-primeiro-repositorio\09-Tratamento_de_Erro_com_Excecoes\obj\Debug\net6.0\Excecoes.pdb
+D:\!Dio\dio-desafio-github-primeiro-repositorio\09-Tratamento_de_Erro_com_Excecoes\obj\Debug\net6.0\Excecoes.genruntimeconfig.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\09-Tratamento_de_Erro_com_Excecoes\obj\Debug\net6.0\ref\Excecoes.dll
