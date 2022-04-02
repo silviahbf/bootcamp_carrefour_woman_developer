@@ -1,0 +1,15 @@
+D:\!Dio\dio-desafio-github-primeiro-repositorio\10-Colecoes_e_LINQ_com_dotNet\Exemplo_Colecoes\Colecoes\bin\Debug\net6.0\Colecoes.exe
+D:\!Dio\dio-desafio-github-primeiro-repositorio\10-Colecoes_e_LINQ_com_dotNet\Exemplo_Colecoes\Colecoes\bin\Debug\net6.0\Colecoes.deps.json
+D:\!Dio\dio-desafio-github-primeiro-repositorio\10-Colecoes_e_LINQ_com_dotNet\Exemplo_Colecoes\Colecoes\bin\Debug\net6.0\Colecoes.runtimeconfig.json
+D:\!Dio\dio-desafio-github-primeiro-repositorio\10-Colecoes_e_LINQ_com_dotNet\Exemplo_Colecoes\Colecoes\bin\Debug\net6.0\Colecoes.dll
+D:\!Dio\dio-desafio-github-primeiro-repositorio\10-Colecoes_e_LINQ_com_dotNet\Exemplo_Colecoes\Colecoes\bin\Debug\net6.0\Colecoes.pdb
+D:\!Dio\dio-desafio-github-primeiro-repositorio\10-Colecoes_e_LINQ_com_dotNet\Exemplo_Colecoes\Colecoes\obj\Debug\net6.0\Colecoes.csproj.AssemblyReference.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\10-Colecoes_e_LINQ_com_dotNet\Exemplo_Colecoes\Colecoes\obj\Debug\net6.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Dio\dio-desafio-github-primeiro-repositorio\10-Colecoes_e_LINQ_com_dotNet\Exemplo_Colecoes\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfoInputs.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\10-Colecoes_e_LINQ_com_dotNet\Exemplo_Colecoes\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfo.cs
+D:\!Dio\dio-desafio-github-primeiro-repositorio\10-Colecoes_e_LINQ_com_dotNet\Exemplo_Colecoes\Colecoes\obj\Debug\net6.0\Colecoes.csproj.CoreCompileInputs.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\10-Colecoes_e_LINQ_com_dotNet\Exemplo_Colecoes\Colecoes\obj\Debug\net6.0\Colecoes.dll
+D:\!Dio\dio-desafio-github-primeiro-repositorio\10-Colecoes_e_LINQ_com_dotNet\Exemplo_Colecoes\Colecoes\obj\Debug\net6.0\refint\Colecoes.dll
+D:\!Dio\dio-desafio-github-primeiro-repositorio\10-Colecoes_e_LINQ_com_dotNet\Exemplo_Colecoes\Colecoes\obj\Debug\net6.0\Colecoes.pdb
+D:\!Dio\dio-desafio-github-primeiro-repositorio\10-Colecoes_e_LINQ_com_dotNet\Exemplo_Colecoes\Colecoes\obj\Debug\net6.0\Colecoes.genruntimeconfig.cache
+D:\!Dio\dio-desafio-github-primeiro-repositorio\10-Colecoes_e_LINQ_com_dotNet\Exemplo_Colecoes\Colecoes\obj\Debug\net6.0\ref\Colecoes.dll
