@@ -1,0 +1,21 @@
+Install-Package Microsoft.EntityFrameworkCore.SqlServer
+Install-Package Microsoft.EntityFrameworkCore.SqlServer -Version 5.0.15
+
+
+Install-Package Microsoft.EntityFrameworkCore.Tools
+Install-Package Microsoft.EntityFrameworkCore.Tools -Version 5.0.15
+
+
+
+@"Server=(localdb)\mssqllocaldb;Database=Cursomvc;Integrated Security=True"
+
+
+Add-Migration InitialCreate
+Update-Database
+
+<Nullable>enable</Nullable>
+
+app.UseSwagger();
+app.UseSwaggerUI(c => { c.SwaggerEndpoint("/swagger/v1/swagger.json", "CursoAPI"); });
+
+services.AddSwaggerGen(c => { c.SwaggerDoc("v1", new OpenApiInfo {Title = "CursoAPI", Version = "v1"}); });
