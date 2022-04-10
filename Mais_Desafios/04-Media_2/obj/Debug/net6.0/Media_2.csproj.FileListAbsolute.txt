@@ -1,0 +1,15 @@
+D:\!Dio\Mais_Desafios\04-Media_2\bin\Debug\net6.0\Media_2.exe
+D:\!Dio\Mais_Desafios\04-Media_2\bin\Debug\net6.0\Media_2.deps.json
+D:\!Dio\Mais_Desafios\04-Media_2\bin\Debug\net6.0\Media_2.runtimeconfig.json
+D:\!Dio\Mais_Desafios\04-Media_2\bin\Debug\net6.0\Media_2.dll
+D:\!Dio\Mais_Desafios\04-Media_2\bin\Debug\net6.0\Media_2.pdb
+D:\!Dio\Mais_Desafios\04-Media_2\obj\Debug\net6.0\Media_2.csproj.AssemblyReference.cache
+D:\!Dio\Mais_Desafios\04-Media_2\obj\Debug\net6.0\Media_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Dio\Mais_Desafios\04-Media_2\obj\Debug\net6.0\Media_2.AssemblyInfoInputs.cache
+D:\!Dio\Mais_Desafios\04-Media_2\obj\Debug\net6.0\Media_2.AssemblyInfo.cs
+D:\!Dio\Mais_Desafios\04-Media_2\obj\Debug\net6.0\Media_2.csproj.CoreCompileInputs.cache
+D:\!Dio\Mais_Desafios\04-Media_2\obj\Debug\net6.0\Media_2.dll
+D:\!Dio\Mais_Desafios\04-Media_2\obj\Debug\net6.0\refint\Media_2.dll
+D:\!Dio\Mais_Desafios\04-Media_2\obj\Debug\net6.0\Media_2.pdb
+D:\!Dio\Mais_Desafios\04-Media_2\obj\Debug\net6.0\Media_2.genruntimeconfig.cache
+D:\!Dio\Mais_Desafios\04-Media_2\obj\Debug\net6.0\ref\Media_2.dll

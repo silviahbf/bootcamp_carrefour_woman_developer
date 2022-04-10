@@ -1,0 +1,15 @@
+D:\!Dio\Mais_Desafios\03-Sequencia_Logica\bin\Debug\net6.0\Sequencia_Logica.exe
+D:\!Dio\Mais_Desafios\03-Sequencia_Logica\bin\Debug\net6.0\Sequencia_Logica.deps.json
+D:\!Dio\Mais_Desafios\03-Sequencia_Logica\bin\Debug\net6.0\Sequencia_Logica.runtimeconfig.json
+D:\!Dio\Mais_Desafios\03-Sequencia_Logica\bin\Debug\net6.0\Sequencia_Logica.dll
+D:\!Dio\Mais_Desafios\03-Sequencia_Logica\bin\Debug\net6.0\Sequencia_Logica.pdb
+D:\!Dio\Mais_Desafios\03-Sequencia_Logica\obj\Debug\net6.0\Sequencia_Logica.csproj.AssemblyReference.cache
+D:\!Dio\Mais_Desafios\03-Sequencia_Logica\obj\Debug\net6.0\Sequencia_Logica.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Dio\Mais_Desafios\03-Sequencia_Logica\obj\Debug\net6.0\Sequencia_Logica.AssemblyInfoInputs.cache
+D:\!Dio\Mais_Desafios\03-Sequencia_Logica\obj\Debug\net6.0\Sequencia_Logica.AssemblyInfo.cs
+D:\!Dio\Mais_Desafios\03-Sequencia_Logica\obj\Debug\net6.0\Sequencia_Logica.csproj.CoreCompileInputs.cache
+D:\!Dio\Mais_Desafios\03-Sequencia_Logica\obj\Debug\net6.0\Sequencia_Logica.dll
+D:\!Dio\Mais_Desafios\03-Sequencia_Logica\obj\Debug\net6.0\refint\Sequencia_Logica.dll
+D:\!Dio\Mais_Desafios\03-Sequencia_Logica\obj\Debug\net6.0\Sequencia_Logica.pdb
+D:\!Dio\Mais_Desafios\03-Sequencia_Logica\obj\Debug\net6.0\Sequencia_Logica.genruntimeconfig.cache
+D:\!Dio\Mais_Desafios\03-Sequencia_Logica\obj\Debug\net6.0\ref\Sequencia_Logica.dll

@@ -1,0 +1,15 @@
+D:\!Dio\Mais_Desafios\09-Formula_de_Bhaskara\bin\Debug\net6.0\Formula_de_Bhaskara.exe
+D:\!Dio\Mais_Desafios\09-Formula_de_Bhaskara\bin\Debug\net6.0\Formula_de_Bhaskara.deps.json
+D:\!Dio\Mais_Desafios\09-Formula_de_Bhaskara\bin\Debug\net6.0\Formula_de_Bhaskara.runtimeconfig.json
+D:\!Dio\Mais_Desafios\09-Formula_de_Bhaskara\bin\Debug\net6.0\Formula_de_Bhaskara.dll
+D:\!Dio\Mais_Desafios\09-Formula_de_Bhaskara\bin\Debug\net6.0\Formula_de_Bhaskara.pdb
+D:\!Dio\Mais_Desafios\09-Formula_de_Bhaskara\obj\Debug\net6.0\Formula_de_Bhaskara.csproj.AssemblyReference.cache
+D:\!Dio\Mais_Desafios\09-Formula_de_Bhaskara\obj\Debug\net6.0\Formula_de_Bhaskara.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Dio\Mais_Desafios\09-Formula_de_Bhaskara\obj\Debug\net6.0\Formula_de_Bhaskara.AssemblyInfoInputs.cache
+D:\!Dio\Mais_Desafios\09-Formula_de_Bhaskara\obj\Debug\net6.0\Formula_de_Bhaskara.AssemblyInfo.cs
+D:\!Dio\Mais_Desafios\09-Formula_de_Bhaskara\obj\Debug\net6.0\Formula_de_Bhaskara.csproj.CoreCompileInputs.cache
+D:\!Dio\Mais_Desafios\09-Formula_de_Bhaskara\obj\Debug\net6.0\Formula_de_Bhaskara.dll
+D:\!Dio\Mais_Desafios\09-Formula_de_Bhaskara\obj\Debug\net6.0\refint\Formula_de_Bhaskara.dll
+D:\!Dio\Mais_Desafios\09-Formula_de_Bhaskara\obj\Debug\net6.0\Formula_de_Bhaskara.pdb
+D:\!Dio\Mais_Desafios\09-Formula_de_Bhaskara\obj\Debug\net6.0\Formula_de_Bhaskara.genruntimeconfig.cache
+D:\!Dio\Mais_Desafios\09-Formula_de_Bhaskara\obj\Debug\net6.0\ref\Formula_de_Bhaskara.dll

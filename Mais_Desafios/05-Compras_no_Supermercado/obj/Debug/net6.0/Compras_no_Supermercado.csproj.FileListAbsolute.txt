@@ -1,0 +1,15 @@
+D:\!Dio\Mais_Desafios\05-Compras_no_Supermercado\obj\Debug\net6.0\Compras_no_Supermercado.csproj.AssemblyReference.cache
+D:\!Dio\Mais_Desafios\05-Compras_no_Supermercado\obj\Debug\net6.0\Compras_no_Supermercado.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Dio\Mais_Desafios\05-Compras_no_Supermercado\obj\Debug\net6.0\Compras_no_Supermercado.AssemblyInfoInputs.cache
+D:\!Dio\Mais_Desafios\05-Compras_no_Supermercado\obj\Debug\net6.0\Compras_no_Supermercado.AssemblyInfo.cs
+D:\!Dio\Mais_Desafios\05-Compras_no_Supermercado\obj\Debug\net6.0\Compras_no_Supermercado.csproj.CoreCompileInputs.cache
+D:\!Dio\Mais_Desafios\05-Compras_no_Supermercado\bin\Debug\net6.0\Compras_no_Supermercado.exe
+D:\!Dio\Mais_Desafios\05-Compras_no_Supermercado\bin\Debug\net6.0\Compras_no_Supermercado.deps.json
+D:\!Dio\Mais_Desafios\05-Compras_no_Supermercado\bin\Debug\net6.0\Compras_no_Supermercado.runtimeconfig.json
+D:\!Dio\Mais_Desafios\05-Compras_no_Supermercado\bin\Debug\net6.0\Compras_no_Supermercado.dll
+D:\!Dio\Mais_Desafios\05-Compras_no_Supermercado\bin\Debug\net6.0\Compras_no_Supermercado.pdb
+D:\!Dio\Mais_Desafios\05-Compras_no_Supermercado\obj\Debug\net6.0\Compras_no_Supermercado.dll
+D:\!Dio\Mais_Desafios\05-Compras_no_Supermercado\obj\Debug\net6.0\refint\Compras_no_Supermercado.dll
+D:\!Dio\Mais_Desafios\05-Compras_no_Supermercado\obj\Debug\net6.0\Compras_no_Supermercado.pdb
+D:\!Dio\Mais_Desafios\05-Compras_no_Supermercado\obj\Debug\net6.0\Compras_no_Supermercado.genruntimeconfig.cache
+D:\!Dio\Mais_Desafios\05-Compras_no_Supermercado\obj\Debug\net6.0\ref\Compras_no_Supermercado.dll

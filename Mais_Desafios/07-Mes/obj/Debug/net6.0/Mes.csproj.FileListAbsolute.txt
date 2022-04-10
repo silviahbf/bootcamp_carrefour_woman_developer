@@ -1,0 +1,15 @@
+D:\!Dio\Mais_Desafios\07-Mes\bin\Debug\net6.0\Mes.exe
+D:\!Dio\Mais_Desafios\07-Mes\bin\Debug\net6.0\Mes.deps.json
+D:\!Dio\Mais_Desafios\07-Mes\bin\Debug\net6.0\Mes.runtimeconfig.json
+D:\!Dio\Mais_Desafios\07-Mes\bin\Debug\net6.0\Mes.dll
+D:\!Dio\Mais_Desafios\07-Mes\bin\Debug\net6.0\Mes.pdb
+D:\!Dio\Mais_Desafios\07-Mes\obj\Debug\net6.0\Mes.csproj.AssemblyReference.cache
+D:\!Dio\Mais_Desafios\07-Mes\obj\Debug\net6.0\Mes.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Dio\Mais_Desafios\07-Mes\obj\Debug\net6.0\Mes.AssemblyInfoInputs.cache
+D:\!Dio\Mais_Desafios\07-Mes\obj\Debug\net6.0\Mes.AssemblyInfo.cs
+D:\!Dio\Mais_Desafios\07-Mes\obj\Debug\net6.0\Mes.csproj.CoreCompileInputs.cache
+D:\!Dio\Mais_Desafios\07-Mes\obj\Debug\net6.0\Mes.dll
+D:\!Dio\Mais_Desafios\07-Mes\obj\Debug\net6.0\refint\Mes.dll
+D:\!Dio\Mais_Desafios\07-Mes\obj\Debug\net6.0\Mes.pdb
+D:\!Dio\Mais_Desafios\07-Mes\obj\Debug\net6.0\Mes.genruntimeconfig.cache
+D:\!Dio\Mais_Desafios\07-Mes\obj\Debug\net6.0\ref\Mes.dll

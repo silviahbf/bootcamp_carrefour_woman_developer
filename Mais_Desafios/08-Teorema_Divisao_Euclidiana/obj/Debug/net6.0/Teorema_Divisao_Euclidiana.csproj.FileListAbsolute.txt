@@ -1,0 +1,15 @@
+D:\!Dio\Mais_Desafios\08-Teorema_Divisao_Euclidiana\bin\Debug\net6.0\Teorema_Divisao_Euclidiana.exe
+D:\!Dio\Mais_Desafios\08-Teorema_Divisao_Euclidiana\bin\Debug\net6.0\Teorema_Divisao_Euclidiana.deps.json
+D:\!Dio\Mais_Desafios\08-Teorema_Divisao_Euclidiana\bin\Debug\net6.0\Teorema_Divisao_Euclidiana.runtimeconfig.json
+D:\!Dio\Mais_Desafios\08-Teorema_Divisao_Euclidiana\bin\Debug\net6.0\Teorema_Divisao_Euclidiana.dll
+D:\!Dio\Mais_Desafios\08-Teorema_Divisao_Euclidiana\bin\Debug\net6.0\Teorema_Divisao_Euclidiana.pdb
+D:\!Dio\Mais_Desafios\08-Teorema_Divisao_Euclidiana\obj\Debug\net6.0\Teorema_Divisao_Euclidiana.csproj.AssemblyReference.cache
+D:\!Dio\Mais_Desafios\08-Teorema_Divisao_Euclidiana\obj\Debug\net6.0\Teorema_Divisao_Euclidiana.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Dio\Mais_Desafios\08-Teorema_Divisao_Euclidiana\obj\Debug\net6.0\Teorema_Divisao_Euclidiana.AssemblyInfoInputs.cache
+D:\!Dio\Mais_Desafios\08-Teorema_Divisao_Euclidiana\obj\Debug\net6.0\Teorema_Divisao_Euclidiana.AssemblyInfo.cs
+D:\!Dio\Mais_Desafios\08-Teorema_Divisao_Euclidiana\obj\Debug\net6.0\Teorema_Divisao_Euclidiana.csproj.CoreCompileInputs.cache
+D:\!Dio\Mais_Desafios\08-Teorema_Divisao_Euclidiana\obj\Debug\net6.0\Teorema_Divisao_Euclidiana.dll
+D:\!Dio\Mais_Desafios\08-Teorema_Divisao_Euclidiana\obj\Debug\net6.0\refint\Teorema_Divisao_Euclidiana.dll
+D:\!Dio\Mais_Desafios\08-Teorema_Divisao_Euclidiana\obj\Debug\net6.0\Teorema_Divisao_Euclidiana.pdb
+D:\!Dio\Mais_Desafios\08-Teorema_Divisao_Euclidiana\obj\Debug\net6.0\Teorema_Divisao_Euclidiana.genruntimeconfig.cache
+D:\!Dio\Mais_Desafios\08-Teorema_Divisao_Euclidiana\obj\Debug\net6.0\ref\Teorema_Divisao_Euclidiana.dll
