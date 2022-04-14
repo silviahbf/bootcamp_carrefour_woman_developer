@@ -1,0 +1,15 @@
+D:\!Dio\Criando_APP_cadastro_series\Series\obj\Debug\net6.0\Series.csproj.AssemblyReference.cache
+D:\!Dio\Criando_APP_cadastro_series\Series\obj\Debug\net6.0\Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Dio\Criando_APP_cadastro_series\Series\obj\Debug\net6.0\Series.AssemblyInfoInputs.cache
+D:\!Dio\Criando_APP_cadastro_series\Series\obj\Debug\net6.0\Series.AssemblyInfo.cs
+D:\!Dio\Criando_APP_cadastro_series\Series\obj\Debug\net6.0\Series.csproj.CoreCompileInputs.cache
+D:\!Dio\Criando_APP_cadastro_series\Series\bin\Debug\net6.0\Series.exe
+D:\!Dio\Criando_APP_cadastro_series\Series\bin\Debug\net6.0\Series.deps.json
+D:\!Dio\Criando_APP_cadastro_series\Series\bin\Debug\net6.0\Series.runtimeconfig.json
+D:\!Dio\Criando_APP_cadastro_series\Series\bin\Debug\net6.0\Series.dll
+D:\!Dio\Criando_APP_cadastro_series\Series\bin\Debug\net6.0\Series.pdb
+D:\!Dio\Criando_APP_cadastro_series\Series\obj\Debug\net6.0\Series.dll
+D:\!Dio\Criando_APP_cadastro_series\Series\obj\Debug\net6.0\refint\Series.dll
+D:\!Dio\Criando_APP_cadastro_series\Series\obj\Debug\net6.0\Series.pdb
+D:\!Dio\Criando_APP_cadastro_series\Series\obj\Debug\net6.0\Series.genruntimeconfig.cache
+D:\!Dio\Criando_APP_cadastro_series\Series\obj\Debug\net6.0\ref\Series.dll
