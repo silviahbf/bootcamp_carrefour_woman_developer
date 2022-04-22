@@ -1,0 +1,7 @@
+D:\!Dio\Curso\curso.api\obj\Debug\net5.0\curso.api.csproj.AssemblyReference.cache
+D:\!Dio\Curso\curso.api\obj\Debug\net5.0\curso.api.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Dio\Curso\curso.api\obj\Debug\net5.0\curso.api.AssemblyInfoInputs.cache
+D:\!Dio\Curso\curso.api\obj\Debug\net5.0\curso.api.AssemblyInfo.cs
+D:\!Dio\Curso\curso.api\obj\Debug\net5.0\curso.api.csproj.CoreCompileInputs.cache
+D:\!Dio\Curso\curso.api\obj\Debug\net5.0\curso.api.MvcApplicationPartsAssemblyInfo.cs
+D:\!Dio\Curso\curso.api\obj\Debug\net5.0\curso.api.MvcApplicationPartsAssemblyInfo.cache

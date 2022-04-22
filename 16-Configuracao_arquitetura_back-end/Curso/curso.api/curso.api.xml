@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>curso.api</name>
+    </assembly>
+    <members>
+        <member name="M:curso.api.Controllers.CursoController.Post(curso.api.Models.Curso.CursoViewModelInput)">
+            <summary>
+            Este serviço permite cadastrar curso para o usuário autenticado.
+            </summary>
+            <returns>Retorna status ok e dados do curso do usuário</returns>
+        </member>
+        <member name="M:curso.api.Controllers.CursoController.Get">
+            <summary>
+            Este serviço permite obter todos os cursos ativos do usuário.
+            </summary>
+            <returns>Retorna status ok e dados do curso do usuário</returns>
+        </member>
+        <member name="M:curso.api.Controllers.UsuarioController.Logar(curso.api.Models.Usuarios.LoginViewModelInput)">
+            <summary>
+            Este serviço permite autenticar um usuário cadastrado e ativo.
+            </summary>
+            /// <param name="LoginViewModelInput">View model do login</param>
+            <returns>Retorna status ok, dados do usuário e o token em caso de sucesso.</returns>
+        </member>
+        <member name="M:curso.api.Controllers.UsuarioController.Registrar(curso.api.Models.Usuarios.RegistroViewModelInput,Microsoft.EntityFrameworkCore.DbContextOptionsBuilder{curso.api.Infraestructure.Data.CursoDbContext})">
+            <summary>
+            Este serviço permite autenticar um usuário cadastrado e ativo.
+            </summary>
+            <param name="LoginViewModelInput">View model do login</param>
+            <returns>Retorna status ok, dados do usuário e o token em caso de sucesso.</returns>
+        </member>
+    </members>
+</doc>
